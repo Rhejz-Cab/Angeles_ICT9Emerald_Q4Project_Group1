@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: #eef2ff;
+}
+
+.sidebar {
+    position: fixed;
+    
+}
+
+.container-fluid {
+    margin-left: 220px;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #dce8ff;
+}
